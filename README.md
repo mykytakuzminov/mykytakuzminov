@@ -1,6 +1,9 @@
 # Hi, I'm Mykyta 👋
 
-CS student at NURE, majoring in AI — focused on building strong fundamentals in Python, algorithms, and math before diving into ML.
+CS student at NURE (AI).<br>
+
+Focused on writing reliable Python: typed, tested, and linted.<br>
+Interested in algorithms, data structures, and math for ML.
 
 ## Skills
 

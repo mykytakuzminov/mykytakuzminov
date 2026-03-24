@@ -4,7 +4,7 @@ CS student at NURE, majoring in AI — focused on building strong fundamentals i
 
 ## Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,git,github,githubactions,pytest)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,linux,git,github,githubactions,pytest)
 
 ![mypy](https://img.shields.io/badge/mypy-strict-2a6db5?style=flat-square)
 ![ruff](https://img.shields.io/badge/ruff-linter-d7ff64?style=flat-square&logoColor=black)

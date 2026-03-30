@@ -7,12 +7,13 @@ Interested in algorithms, data structures, and math for ML.
 
 ## Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,linux,git,github,githubactions,pytest)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy,jupyter,git,github,linux,vscode,githubactions,pytest)
 
 ![mypy](https://img.shields.io/badge/mypy-strict-2a6db5?style=flat-square)
 ![ruff](https://img.shields.io/badge/ruff-linter-d7ff64?style=flat-square&logoColor=black)
 ![tox](https://img.shields.io/badge/tox-automation-ce3262?style=flat-square)
 ![uv](https://img.shields.io/badge/uv-package%20manager-de5fe9?style=flat-square)
+![conda](https://img.shields.io/badge/conda-miniconda-44A833?style=flat-square)
 
 ## Contact
 

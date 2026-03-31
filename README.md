@@ -23,16 +23,15 @@ Interested in algorithms, data structures, and math for ML.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff)
 ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=visualstudiocode&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-4A4A4A?logo=linux&logoColor=fff)
 
 ## 📦 Projects
 
 | Repository | Description |
 |---|---|
-| **[python-dsa-core](https://github.com/mykytakuzminov/python-dsa-core)**  | Hand-crafted data structures & algorithms in pure Python. 9 structures, 6 sorting algorithms, 246 tests. |
-| **[python-linlag-core](https://github.com/mykytakuzminov/python-linlag-core)**  | Minimal linear algebra library in pure Python. Matrix ops, determinant, transpose — zero dependencies. |
-| **[data-science-core](https://github.com/mykytakuzminov/data-science-core)** | Jupyter notebooks covering Data Science fundamentals — NumPy, Pandas, Matplotlib and Seaborn. |
-| **[arch-onyx-dotfiles](https://github.com/mykytakuzminov/arch-onyx-dotfiles)** | Wayland-based Arch Linux setup with Hyprland, Alacritty, Waybar — one-command install. |
+| **[python-dsa-core](https://github.com/mykytakuzminov/python-dsa-core)**  | Hand-crafted data structures & algorithms in pure Python. |
+| **[python-linlag-core](https://github.com/mykytakuzminov/python-linlag-core)**  | Minimal linear algebra library in pure Python. |
+| **[data-science-core](https://github.com/mykytakuzminov/data-science-core)** | Jupyter notebooks covering Data Science fundamentals. |
+| **[arch-onyx-dotfiles](https://github.com/mykytakuzminov/arch-onyx-dotfiles)** | Wayland-based Arch Linux setup dotfiles. |
 
 ## 📬 Contact
 

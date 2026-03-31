@@ -1,24 +1,40 @@
-# Hi, I'm Mykyta 👋
+# Hey, I'm Mykyta 👋
 
-CS student at NURE (AI).<br>
-
-Focused on writing reliable Python: typed, tested, and linted.<br>
+CS student at NURE · AI specialization  
+Building reliable Python — typed, tested, and linted.  
 Interested in algorithms, data structures, and math for ML.
 
-## Skills
+## 🛠 Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,numpy,jupyter,git,github,linux,vscode,githubactions,pytest)
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=fff)
 
-![mypy](https://img.shields.io/badge/mypy-strict-2a6db5?style=flat-square)
-![ruff](https://img.shields.io/badge/ruff-linter-d7ff64?style=flat-square&logoColor=black)
-![tox](https://img.shields.io/badge/tox-automation-ce3262?style=flat-square)
-![uv](https://img.shields.io/badge/uv-package%20manager-de5fe9?style=flat-square)
-![conda](https://img.shields.io/badge/conda-miniconda-44A833?style=flat-square)
+**Tooling**  
+![Uv](https://img.shields.io/badge/Uv-6A5ACD?logo=uv&logoColor=fff)
+![Ruff](https://custom-icon-badges.demolab.com/badge/Ruff-C44B3E.svg?logo=ruff-logo&logoColor=fff)
+![Mypy](https://img.shields.io/badge/Mypy-2A6DB5?logo=python&logoColor=fff)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff)
+![Tox](https://img.shields.io/badge/Tox-CE3262?logo=python&logoColor=fff)
+![Anaconda](https://img.shields.io/badge/Anaconda-2D6A4F?logo=anaconda&logoColor=fff)
 
-## Contact
+**Environment**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=fff)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=visualstudiocode&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-4A4A4A?logo=linux&logoColor=fff)
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mykytakuzminov@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mykytakuzminov)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mykytakuzminov)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/mykytakuzminov)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1095797048466477118)
+## 📦 Projects
+
+| Repository | Description |
+|---|---|
+| **[python-dsa-core](https://github.com/mykytakuzminov/python-dsa-core)**  | Hand-crafted data structures & algorithms in pure Python. 9 structures, 6 sorting algorithms, 246 tests. |
+| **[python-linlag-core](https://github.com/mykytakuzminov/python-linlag-core)**  | Minimal linear algebra library in pure Python. Matrix ops, determinant, transpose — zero dependencies. |
+| **[data-science-core](https://github.com/mykytakuzminov/data-science-core)** | Jupyter notebooks covering Data Science fundamentals — NumPy, Pandas, Matplotlib and Seaborn. |
+| **[arch-onyx-dotfiles](https://github.com/mykytakuzminov/arch-onyx-dotfiles)** | Wayland-based Arch Linux setup with Hyprland, Alacritty, Waybar — one-command install. |
+
+## 📬 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:mykytakuzminov@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/mykytakuzminov)

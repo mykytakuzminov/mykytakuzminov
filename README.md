@@ -9,6 +9,7 @@ Interested in algorithms, data structures, and math for ML.
 **Languages & Core**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=fff)
 
 **Tooling**  

@@ -10,15 +10,17 @@ Interested in algorithms, data structures, and math for ML.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C?logo=matplotlib&logoColor=fff)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E8B8B?logo=python&logoColor=fff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=fff)
 
 **Tooling**  
-![Uv](https://img.shields.io/badge/Uv-6A5ACD?logo=uv&logoColor=fff)
+![Uv](https://img.shields.io/badge/Uv-2D2D2D?logo=uv&logoColor=fff)
 ![Ruff](https://custom-icon-badges.demolab.com/badge/Ruff-C44B3E.svg?logo=ruff-logo&logoColor=fff)
 ![Mypy](https://img.shields.io/badge/Mypy-2A6DB5?logo=python&logoColor=fff)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff)
-![Tox](https://img.shields.io/badge/Tox-CE3262?logo=python&logoColor=fff)
-![Anaconda](https://img.shields.io/badge/Anaconda-2D6A4F?logo=anaconda&logoColor=fff)
+![Tox](https://img.shields.io/badge/Tox-7B5EA7?logo=python&logoColor=fff)
+![Anaconda](https://img.shields.io/badge/Anaconda-1A4731?logo=anaconda&logoColor=fff)
 
 **Environment**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
@@ -31,7 +33,6 @@ Interested in algorithms, data structures, and math for ML.
 |---|---|
 | **[python-dsa-core](https://github.com/mykytakuzminov/python-dsa-core)**  | Hand-crafted data structures & algorithms in pure Python. |
 | **[python-linlag-core](https://github.com/mykytakuzminov/python-linlag-core)**  | Minimal linear algebra library in pure Python. |
-| **[data-science-core](https://github.com/mykytakuzminov/data-science-core)** | Jupyter notebooks covering Data Science fundamentals. |
 | **[arch-onyx-dotfiles](https://github.com/mykytakuzminov/arch-onyx-dotfiles)** | Wayland-based Arch Linux setup dotfiles. |
 
 ## 📬 Contact

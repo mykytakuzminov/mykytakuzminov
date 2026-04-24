@@ -1,6 +1,6 @@
 ## 🛠 Skills
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,git,linux&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,postgresql,git,linux&theme=dark)
 
 ## 📦 Projects
 

@@ -6,6 +6,7 @@
 
 | Repository | Description |
 |---|---|
+| **[dld-quiz-bot](https://github.com/mykytakuzminov/dld-quiz-bot)**  | Telegram Quiz Bot for the "Das Leben in Deutschland" exam. |
 | **[python-dsa-core](https://github.com/mykytakuzminov/python-dsa-core)**  | Hand-crafted data structures & algorithms in pure Python. |
 | **[arch-onyx-dotfiles](https://github.com/mykytakuzminov/arch-onyx-dotfiles)** | Wayland-based Arch Linux setup dotfiles. |
 
